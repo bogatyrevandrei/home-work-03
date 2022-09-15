@@ -1,0 +1,12 @@
+:root {
+    --aqua-color: #95E1D3;
+    --main-hover-color: #F38183;
+    --title-color: #333333;
+    --text-color: #868686;
+    --white-color: #fff;
+    --yellow-color: #FCE38A; 
+
+    --kaushan: 'Kaushan Script', cursive;
+    --motserrat: 'Montserrat', sans-serif;
+    --roboto: 'Roboto', sans-serif;
+}
